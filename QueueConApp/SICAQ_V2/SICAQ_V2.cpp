@@ -6,12 +6,8 @@ using namespace std;
 class Student
 {
 public:
-  string fullName;
-  string ID;
-  string department;
   int age;
-  string birthday;
-  string address;
+  string fullName, ID, department, birthday, address;
 };
 
 void runProgram(queue<Student> &studentsQueue);
