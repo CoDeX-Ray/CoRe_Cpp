@@ -14,7 +14,6 @@ public:
   string address;
 };
 
-// Function Prototypes
 void inputEnqueueStudent(queue<Student> &studentsQueue);
 void inputDequeueStudent(queue<Student> &studentsQueue);
 void displayStudents(const queue<Student> &studentsQueue);
