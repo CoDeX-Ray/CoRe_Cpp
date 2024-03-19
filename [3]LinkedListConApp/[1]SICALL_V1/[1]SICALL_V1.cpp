@@ -6,7 +6,11 @@ class Student
 {
 public:
   int age;
-  string fullName, ID, department, birthday, address;
+  string fullName;
+  string ID;
+  string department;
+  string birthday;
+  string address;
 
   Student(const string &name, const string &id, const string &dept, int studentAge, const string &dob, const string &addr)
       : fullName(name), ID(id), department(dept), age(studentAge), birthday(dob), address(addr) {}
