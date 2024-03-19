@@ -43,7 +43,7 @@ void displayMenu()
        << "|                                   | \n"
        << "|    Enrollment Management System   | \n"
        << "|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| \n"
-       << "|  Author:  DE BORJA, RAYMUNDO III  | \n"
+       << "|  Author:  RAYMUND                 | \n"
        << "|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~| \n"
        << "|                                   | \n"
        << "|  Menu:                            | \n"
